@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: blueviolet;
+  padding-top: 30px;
+}
+
+.App {
+  padding: 20px;
+  max-width: 70vw ;
+  margin: 0 auto;
+  background-color:white;
+  border-radius: 20px;
+  height: 90vh;
+  overflow: hidden;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #fff;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
